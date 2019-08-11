@@ -1,0 +1,6 @@
+framework module Pods_SqliteDemoTests {
+  umbrella header "Pods-SqliteDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
